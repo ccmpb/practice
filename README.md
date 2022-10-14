@@ -1,2 +1,1 @@
-# practice
-Coding and system design practice
+# Coding and system design practice
